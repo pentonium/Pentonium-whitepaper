@@ -1,0 +1,5 @@
+Website: [https://pentonium.com/]
+Github: [https://github.com/pentonium]
+Telegram (Official): [https://t.me/pentonium]
+Blog: [https://pentonium.medium.com/#]
+Twitter: [https://twitter.com/pentonium\_ptm]
