@@ -2,7 +2,7 @@ Anyone can act as a service provider as well as the client just by connecting th
 
 
 
-_*Note: Time limit can be extended if both parties agree or raise a dispute before the timer is blown. _
+_*Note: Time limit can be extended if both parties agree or raise a dispute before the timer is blown._
 
 
 Marshals know about the subject, have worked in the industry and bring with them vast quantities of experience in that particular field. Once chosen, marshals are tasked with examining the evidence before voting in an A/B manner for the party they believe correct. At this point, the losing party has the ability to appeal should they feel so inclined.
