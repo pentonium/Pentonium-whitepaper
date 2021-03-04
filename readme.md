@@ -17,7 +17,7 @@
 
 [PTM token](https://github.com/pentonium/pentonium-whitepaper/blob/main/PTM%20token.md)
 
-[Toekn allocation](https://github.com/pentonium/pentonium-whitepaper/blob/main/Token%20Allocation.md)
+[Token allocation](https://github.com/pentonium/pentonium-whitepaper/blob/main/Token%20Allocation.md)
 
 [Competitors](https://github.com/pentonium/pentonium-whitepaper/blob/main/Competitors.md)
 
