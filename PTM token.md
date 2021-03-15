@@ -1,3 +1,5 @@
+## PTM Token
+
 PTM is the native platform token for the Pentonium protocol. Currently, it has a total supply of 100,000,000 PTM. PTM is used within the platform in various instances like when a dispute is raised, the dispute fee needs to be paid in PTM tokens. The Vault in the PTM ecosystem accepts PTM upon which they get rewarded.  
 
 
