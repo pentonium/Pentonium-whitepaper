@@ -1,3 +1,5 @@
+## Problems
+
 As blockchain is still in the very initial stage, it is really hard to find service providers who are interested and well versed in this stream. A platform is needed which combines a high variety of services to help one who needs all of them together to build a product.
 
 Trust is one of the biggest issues in modern days. Both clients and service providers have to have trust in each other. Either of them can easily betray. 
